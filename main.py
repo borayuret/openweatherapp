@@ -2,8 +2,7 @@
 
 # key: 24bb5a00705b2420901490c95519ab0b
 
-# Api Call: http://api.openweathermap.org/data/2.5/weather?q=ankara&appid=24bb5a00705b2420901490c95519ab0b
-
+# Api Call: http://api.openweathermap.org/data/2.5/weather?q=ankara&appid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 import requests
 import json
